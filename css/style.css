@@ -868,7 +868,18 @@ body.offcanvas {
     @media screen and (max-width: 1200px) {
       .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
         font-size: 28px; } }
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
 
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+        }
 .blog-entry {
   width: 100%;
   float: left;
