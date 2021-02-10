@@ -13,7 +13,7 @@
 * ======================================================= */
 body {
   font-family: "Quicksand", Arial, sans-serif;
-  font-weight: 500;
+  font-weight: 520;
   font-size: 20px;
   line-height: 1.8;
   color: rgba(0, 0, 0, 2.0); }
@@ -135,8 +135,8 @@ figure {
         margin: 0 0 10px 0;
         padding: 0;
         list-style: none;
-        font-size: 12px;
-        font-weight: 500;
+        font-size: 13px;
+        font-weight: 520;
         text-transform: uppercase;
         letter-spacing: 1px; }
         #colorlib-aside #colorlib-main-menu ul li a {
@@ -420,10 +420,10 @@ body.offcanvas {
 .heading-meta {
   margin-bottom: 15px;
   display: block;
-  font-size: 10px;
+  font-size: 15px;
   text-transform: uppercase;
   color: #999999;
-  font-weight: 500;
+  font-weight: 520;
   letter-spacing: 5px; }
 
 .about-img {
@@ -910,10 +910,10 @@ body.offcanvas {
     display: block;
     margin-bottom: 20px;
     font-size: 12px;
-    color: rgba(0, 0, 0, 0.4) !important;
+    color: rgba(0, 0, 0, 10) !important;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-weight: 400; }
+    font-weight: 500; }
     .blog-entry .desc span small i {
       color: #999999; }
   .blog-entry .desc .lead {
